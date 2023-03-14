@@ -1,0 +1,79 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ENTITIES.HRM_Web_UTTOSoftware", "ENTITIES.HRM_Web_UTTOSoftware_UI\ENTITIES.HRM_Web_UTTOSoftware.csproj", "{0B12DF08-09A3-4AEC-9945-62B384110898}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DAL.HRM_Web_UTTOSoftware", "DAL.HRM_Web_UTTOSoftware_UI\DAL.HRM_Web_UTTOSoftware.csproj", "{DA6D5416-6F1A-49C1-9203-888C6270407F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BLL.HRM_Web_UTTOSoftware", "BLL.HRM_Web_UTTOSoftware_UI\BLL.HRM_Web_UTTOSoftware.csproj", "{990A86C3-264D-4763-80E3-6B35BD9551E8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CORE.HRM_Web_UTTOSoftware", "CORE.HRM_Web_UTTOSoftware\CORE.HRM_Web_UTTOSoftware.csproj", "{5B649E28-32EB-4263-A6FC-AFA88145B550}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sysstem.HRM_Web_UTTOSoftware", "Sysstem.HRM_Web_UTTOSoftware\Sysstem.HRM_Web_UTTOSoftware.csproj", "{32C06D99-17A7-46D7-AF3F-31A9FA9E0002}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HRM_Web_UTTOSoftware_UI", "HRM_Web_UTTOSoftware_UI\HRM_Web_UTTOSoftware_UI.csproj", "{F46BF81E-B52B-40B1-9302-2E071ED62538}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B12DF08-09A3-4AEC-9945-62B384110898}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B12DF08-09A3-4AEC-9945-62B384110898}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B12DF08-09A3-4AEC-9945-62B384110898}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B12DF08-09A3-4AEC-9945-62B384110898}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA6D5416-6F1A-49C1-9203-888C6270407F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA6D5416-6F1A-49C1-9203-888C6270407F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA6D5416-6F1A-49C1-9203-888C6270407F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA6D5416-6F1A-49C1-9203-888C6270407F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{990A86C3-264D-4763-80E3-6B35BD9551E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{990A86C3-264D-4763-80E3-6B35BD9551E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{990A86C3-264D-4763-80E3-6B35BD9551E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{990A86C3-264D-4763-80E3-6B35BD9551E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B649E28-32EB-4263-A6FC-AFA88145B550}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B649E28-32EB-4263-A6FC-AFA88145B550}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B649E28-32EB-4263-A6FC-AFA88145B550}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B649E28-32EB-4263-A6FC-AFA88145B550}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32C06D99-17A7-46D7-AF3F-31A9FA9E0002}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32C06D99-17A7-46D7-AF3F-31A9FA9E0002}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32C06D99-17A7-46D7-AF3F-31A9FA9E0002}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32C06D99-17A7-46D7-AF3F-31A9FA9E0002}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F46BF81E-B52B-40B1-9302-2E071ED62538}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F46BF81E-B52B-40B1-9302-2E071ED62538}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F46BF81E-B52B-40B1-9302-2E071ED62538}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F46BF81E-B52B-40B1-9302-2E071ED62538}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ACC271F1-4247-454D-84D5-5C23658A34F6}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 7
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://dev.azure.com/utkukoctr
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = BLL.HRM_Web_UTTOSoftware_UI\\BLL.HRM_Web_UTTOSoftware.csproj
+		SccProjectName1 = BLL.HRM_Web_UTTOSoftware_UI
+		SccLocalPath1 = BLL.HRM_Web_UTTOSoftware_UI
+		SccProjectUniqueName2 = DAL.HRM_Web_UTTOSoftware_UI\\DAL.HRM_Web_UTTOSoftware.csproj
+		SccProjectName2 = DAL.HRM_Web_UTTOSoftware_UI
+		SccLocalPath2 = DAL.HRM_Web_UTTOSoftware_UI
+		SccProjectUniqueName3 = ENTITIES.HRM_Web_UTTOSoftware_UI\\ENTITIES.HRM_Web_UTTOSoftware.csproj
+		SccProjectName3 = ENTITIES.HRM_Web_UTTOSoftware_UI
+		SccLocalPath3 = ENTITIES.HRM_Web_UTTOSoftware_UI
+		SccProjectUniqueName4 = CORE.HRM_Web_UTTOSoftware\\CORE.HRM_Web_UTTOSoftware.csproj
+		SccProjectName4 = CORE.HRM_Web_UTTOSoftware
+		SccLocalPath4 = CORE.HRM_Web_UTTOSoftware
+		SccProjectUniqueName5 = Sysstem.HRM_Web_UTTOSoftware\\Sysstem.HRM_Web_UTTOSoftware.csproj
+		SccProjectName5 = Sysstem.HRM_Web_UTTOSoftware
+		SccLocalPath5 = Sysstem.HRM_Web_UTTOSoftware
+		SccProjectUniqueName6 = HRM_Web_UTTOSoftware_UI\\HRM_Web_UTTOSoftware_UI.csproj
+		SccProjectName6 = HRM_Web_UTTOSoftware_UI
+		SccLocalPath6 = HRM_Web_UTTOSoftware_UI
+	EndGlobalSection
+EndGlobal
